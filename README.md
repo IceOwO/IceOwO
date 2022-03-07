@@ -1,4 +1,4 @@
-- Hi, I’m @IceOwO
+- Hi, I’m Ice
 - I’m currently learning Python
 - You can reach me on Discord: Ice#4178
 - I live in Germany
